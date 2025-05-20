@@ -67,7 +67,7 @@ export const FEATURED_PRODUCTS = [
     category: 'exterior',
     brand: 'Audi',
     rating: 4.6,
-    image: 'https://images.pexels.com/photos/3806235/pexels-photo-3806235.jpeg',
+    image: 'https://images.pexels.com/photos/5998732/pexels-photo-5998732.jpeg',
     stock: 5,
   },
   {
